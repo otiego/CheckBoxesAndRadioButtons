@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CheckBoxesAndRadioButtons</string>
+    <string name="what_do_you_want_on_your_bugger">What do you want on your bugger?</string>
+    <string name="onions">Onions</string>
+    <string name="salad">Salad</string>
+    <string name="cheese">Cheese</string>
+    <string name="pork">Pork</string>
+    <string name="chicken">Chicken</string>
+    <string name="beef">Beef</string>
+    <string name="order">Order</string>
+</resources>
